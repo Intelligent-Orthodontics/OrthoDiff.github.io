@@ -19,8 +19,10 @@
 Please organize the data according to the following structure. We provide the input tooth motion process.
 ```
 │data/
-├──X/
-│  ├── 
+├──model_name/
+├──path_lower/
+├──path_upper/
+├──rtv_gt/
 
 ...
 ```
