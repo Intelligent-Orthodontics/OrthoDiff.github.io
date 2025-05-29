@@ -7,7 +7,7 @@ on Hierarchical Diffusion Transformer</h1>
   <div align="center"></div>
 </p>
 <p align="center">
-  <img src="assess/Intro.png" width="1080" />
+  <img src="assess/Intro_12.png" width="1080" />
 </p>
 
 
